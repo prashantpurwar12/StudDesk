@@ -166,11 +166,21 @@ Ensure you have the following installed:
 
 ### Installation
 
+<<<<<<< HEAD
 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/prashantpurwar12/StudDesk.git
 cd StudDesk
 ```
+=======
+3. **Update Database Configuration**
+   Edit `src/main/java/com/studdesk/util/DatabaseUtil.java`:
+   ```java
+   private static final String URL = "jdbc:mysql://localhost:3306/studdesk";
+   private static final String USER = "your_username";
+   private static final String PASSWORD = "your_password";
+   ```
+>>>>>>> d8b11196afc2891844886c45699633b70db7b839
 
 2️⃣ **Set Up Database**
 ```sql
@@ -427,12 +437,18 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License - Copyright (c) 2025 StudDesk
 
+<<<<<<< HEAD
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+=======
+**Your Name**
+- GitHub: [@prashantpurwar12](https://github.com/prashantpurwar12)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/prashant-purwar-230966264/)
+>>>>>>> d8b11196afc2891844886c45699633b70db7b839
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
