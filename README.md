@@ -82,7 +82,7 @@ StudDesk is a comprehensive student management platform designed for schools and
 3. **Update Database Configuration**
    Edit `src/main/java/com/studdesk/util/DatabaseUtil.java`:
    ```java
-   private static final String URL = "jdbc:mysql://localhost:3306/edudesk";
+   private static final String URL = "jdbc:mysql://localhost:3306/studdesk";
    private static final String USER = "your_username";
    private static final String PASSWORD = "your_password";
    ```
@@ -200,8 +200,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/prashantpurwar12)
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prashant-purwar-230966264/))
 
 ## 🙏 Acknowledgments
 
