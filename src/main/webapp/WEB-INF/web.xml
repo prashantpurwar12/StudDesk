@@ -5,7 +5,7 @@
          http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
 
-    <display-name>EduDesk - Student Management System</display-name>
+    <display-name>StudDesk - Student Management System</display-name>
     <description>
         Java Web-based Student Management System with CRUD operations
     </description>

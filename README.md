@@ -1,4 +1,4 @@
-# 🎓 EduDesk - Student Management System
+# 🎓 StudDesk - Student Management System
 
 > A modern, feature-rich student management system built with Java, focusing on simplicity and efficiency.
 
@@ -8,7 +8,7 @@
 
 ## ✨ Overview
 
-EduDesk is a comprehensive student management platform designed for schools and educational institutions. It provides an intuitive interface for managing student records, tracking academic performance, and generating insightful analytics—all wrapped in a beautiful, modern UI with both light and dark mode support.
+StudDesk is a comprehensive student management platform designed for schools and educational institutions. It provides an intuitive interface for managing student records, tracking academic performance, and generating insightful analytics—all wrapped in a beautiful, modern UI with both light and dark mode support.
 
 ## 🚀 Features
 
@@ -65,8 +65,8 @@ EduDesk is a comprehensive student management platform designed for schools and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/EduDesk.git
-   cd EduDesk
+   git clone https://github.com/yourusername/StudDesk.git
+   cd StudDesk
    ```
 
 2. **Configure Database**
@@ -100,7 +100,7 @@ EduDesk is a comprehensive student management platform designed for schools and 
 6. **Access the Application**
    Open your browser and navigate to:
    ```
-   http://localhost:8081/EduDesk
+   http://localhost:8081/StudDesk
    ```
 
 ## 📖 Usage Guide
@@ -130,7 +130,7 @@ EduDesk is a comprehensive student management platform designed for schools and 
 ## 📁 Project Structure
 
 ```
-EduDesk/
+StudDesk/
 ├── src/
 │   ├── main/
 │   │   ├── java/com/studdesk/

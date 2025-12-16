@@ -7,7 +7,7 @@
             <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>Student Details - EduDesk</title>
+                <title>Student Details - StudDesk</title>
                 <link rel="stylesheet" href="css/style.css">
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
             </head>
@@ -16,7 +16,7 @@
                 <div class="container">
                     <header class="header">
                         <div>
-                            <h1 class="brand"><i class="fas fa-graduation-cap"></i> EduDesk</h1>
+                            <h1 class="brand"><i class="fas fa-graduation-cap"></i> StudDesk</h1>
                             <p class="tagline">Student Management System</p>
                         </div>
                         <div class="header-left">
@@ -165,7 +165,7 @@
 
 
                         <footer class="footer">
-                            <p>&copy; 2025 EduDesk. Built with <i class="fas fa-heart" style="color: #ef4444;"></i>
+                            <p>&copy; 2025 StudDesk. Built with <i class="fas fa-heart" style="color: #ef4444;"></i>
                                 using Java & JSP</p>
                         </footer>
                 </div>
