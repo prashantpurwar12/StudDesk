@@ -144,7 +144,7 @@ GitHub            | Code hosting
 ### Advanced Search - Find Anyone
 > *Multi-criteria search with active filters*
 
-![Search](search.jpeg)
+![Search](Screenshot_16-12-2025_63421_localhost.jpeg)
 
 ### Dark Mode - Eye-Friendly Interface
 > *Seamless theme switching for comfortable viewing*
