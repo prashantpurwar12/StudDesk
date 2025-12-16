@@ -134,22 +134,22 @@ GitHub            | Code hosting
 ### Dashboard - Analytics Overview
 > *Real-time statistics and visual insights at a glance*
 
-![Dashboard](dashboard.jpeg)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ### Student List - Efficient Management
 > *Paginated list with quick actions and search*
 
-![Student List](student-list.jpeg)
+![Student List](screenshots/student-list.jpeg)
 
 ### Advanced Search - Find Anyone
 > *Multi-criteria search with active filters*
 
-![Search](search.jpeg)
+![Search](screenshots/search.jpeg)
 
 ### Dark Mode - Eye-Friendly Interface
 > *Seamless theme switching for comfortable viewing*
 
-![Dark Mode](dark-mode.jpeg)
+![Dark Mode](screenshots/darkmode.jpeg)
 
 ---
 
@@ -166,21 +166,11 @@ Ensure you have the following installed:
 
 ### Installation
 
-<<<<<<< HEAD
 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/prashantpurwar12/StudDesk.git
 cd StudDesk
 ```
-=======
-3. **Update Database Configuration**
-   Edit `src/main/java/com/studdesk/util/DatabaseUtil.java`:
-   ```java
-   private static final String URL = "jdbc:mysql://localhost:3306/studdesk";
-   private static final String USER = "your_username";
-   private static final String PASSWORD = "your_password";
-   ```
->>>>>>> d8b11196afc2891844886c45699633b70db7b839
 
 2️⃣ **Set Up Database**
 ```sql
@@ -437,18 +427,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License - Copyright (c) 2025 StudDesk
 
-<<<<<<< HEAD
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-=======
-**Your Name**
-- GitHub: [@prashantpurwar12](https://github.com/prashantpurwar12)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/prashant-purwar-230966264/)
->>>>>>> d8b11196afc2891844886c45699633b70db7b839
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -460,7 +444,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Created and Maintained by Your Name**
+**Created and Maintained by Prashant Purwar**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashantpurwar12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-purwar-230966264/)
