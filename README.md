@@ -149,7 +149,7 @@ GitHub            | Code hosting
 ### Dark Mode - Eye-Friendly Interface
 > *Seamless theme switching for comfortable viewing*
 
-![Dark Mode](dark-mode.jpeg)
+![Dark Mode](darkmode.jpeg)
 
 ---
 
